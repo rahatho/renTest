@@ -1,3 +1,10 @@
 label start:
-"Aliul" "Hey i am free and i need to sleep."
-"Rahat" "I am free also but i am not sleep."
+        "Sylvie" "Hi there! How was class?"
+
+        "Me" "Good..."
+
+        "I can't bring myself to admit that it all went in one ear and out the other."
+
+        "Me" "Are you going home now? Wanna walk back with me?"
+
+        "Sylvie" "Sure!"
