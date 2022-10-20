@@ -1,0 +1,5 @@
+script.rpyc
+cache/bytecode.rpyb
+cache/screens.rpyb
+cache/shaders.txt
+saves/persistent
